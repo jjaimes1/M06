@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="382b6d29-1922-4869-866b-51dc19ee8671" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../M03/exercicisMap/.idea/copyright/JJ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M03/exercicisMap/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M03/exercicisMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M03/exercicisMap/.~lock.5 - ExercicisMap.odt#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M03/exercicisMap/5 - ExercicisMap.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M03/exercicisMap/src/com/jj/ElimVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercici2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercici3/exercici3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectesSerializables/objectesSerializables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectesSerializables/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/Exercicis1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/Exercicis1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisMap/out/production/exercicisMap/com/jj/Exercici1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisMap/out/production/exercicisMap/com/jj/Exercici1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisMap/out/production/exercicisMap/com/jj/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisMap/out/production/exercicisMap/com/jj/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisMap/src/com/jj/Exercici1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisMap/src/com/jj/Exercici1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisMap/src/com/jj/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisMap/src/com/jj/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisSet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M03/exercicisStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M03/exercicisStack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/13/a06f92d7b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/16/90968fe9fde900191921d2609ab097a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/16/f038850cb4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/1c/50af6383b1ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/1d/20fa92c7b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/23/40ad4fcdb9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/25/e0ea35fbb3e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/26/a028ddc3b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/2e/604ff5c4b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/2f/70edfa11b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/31/906f2094bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/34/d03438fbb3e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/3b/7000840cb4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/3d/90c4f5c4b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/4d/50fd89c6b2e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/4f/e0122304b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/56/a03cdad9b1ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/58/d0c9f9efb3e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/5f/50442294bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/6/10a82194bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/64/c03ff911b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/67/b09c840cb4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/68/30cf93d7b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/6b/a03f8de8b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/6f/f0674cd0b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/77/904c7723b2ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/77/b0be50cdb9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/78/e0489ce8bbe60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/7e/60fa3f71b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/8/10a84171b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/81/50b52494bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/87/108cf4c4b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/91/502aab93b1ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/91/80b92294bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/91/e0a5d49cbde60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/93/4078fa11b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/96/a0762204b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/97/e0e08909b2ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/a0/70ab0db7bbe60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/a0/d07c2394bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/a2/70a04dd0b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/a4/2003be5eb2ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/a5/c0ca0ccfb2e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/a7/2059c328b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/ae/7071860cb4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/ae/d0b48de8b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/ba/50ed69a3b1ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/bb/80799a00b3ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/c/10e3e354b2ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/c1/707cf811b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/c5/40c90aa9bbe60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/c8/a0157082b3ea00191498f7c4815c0a3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/c8/b0164bbeb2e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/cf/90bf860cb4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/d4/704e37cfb8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/da/e03351cdb9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/e0/00f02004b4e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/e3/e0bcc228b9e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/f/807137fbb3e600191a4d938fa6bccd0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/f/d00b2194bae60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.history/fb/507048d0b8e60019124089f5dc8f23e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/avui1/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/avui1/.indexes/e4/c8/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/calculadora/.indexes/e4/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/calculadora/.indexes/e4/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/calculadora/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/calculadora/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/calculadora/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/calculadora/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/person/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/person/.indexes/e4/ab/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/telematic/.indexes/e4/21/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/telematic/.indexes/e4/29/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/telematic/.indexes/e4/29/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/6.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.jdt.core/3071738074.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.jdt.core/3071738074.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.pde.core/SavedExternalPluginList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.pde.core/SavedExternalPluginList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/bin/Calcular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M05/eclipse/calculadora/src/Calcular.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../M05/eclipse/calculadora/src/Calcular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercici2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercici2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercici2/out/production/exercici2/com/jj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercici2/out/production/exercici2/com/jj/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercici2/out/production/exercici2/com/jj/ficheroMod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../exercici2/out/production/exercici2/com/jj/ficheroMod.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercici2/src/com/jj/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercici2/src/com/jj/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercici2/src/com/jj/ficheroMod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../exercici2/src/com/jj/ficheroMod.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebasAccesoFichero2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pruebasAccesoFichero2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1RYoSeE89wCfkSB0qyqXio25eTo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Versio1">
+    <configuration name="CrearDir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.CrearDir" />
+      <module name="pruebasAccesoFichero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.exercicisClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerDir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.VerDir" />
+      <module name="pruebasAccesoFichero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.exercicisClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Versio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.exercicisClase.Versio1" />
+      <module name="pruebasAccesoFichero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.exercicisClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Versio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.exercicisClase.Versio2" />
+      <module name="pruebasAccesoFichero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.exercicisClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Versio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jj.exercicisClase.Versio3" />
+      <module name="pruebasAccesoFichero" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/com/jj/dirPruebas 6666" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jj.exercicisClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VerDir" />
+      <item itemvalue="Application.CrearDir" />
+      <item itemvalue="Application.Versio1" />
+      <item itemvalue="Application.Versio2" />
+      <item itemvalue="Application.Versio3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Versio1" />
+        <item itemvalue="Application.Versio3" />
+        <item itemvalue="Application.Versio2" />
+        <item itemvalue="Application.VerDir" />
+        <item itemvalue="Application.CrearDir" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="382b6d29-1922-4869-866b-51dc19ee8671" name="Default Changelist" comment="" />
+      <created>1569853391025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569853391025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
