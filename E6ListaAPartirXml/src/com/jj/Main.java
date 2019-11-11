@@ -21,11 +21,11 @@ public class Main {
             document.getDocumentElement().normalize();
 
             System.out.println("Elemento raíz: " + document.getDocumentElement().getNodeName());
-            NodeList empleados = document.getElementsByTagName("empleado");
+            NodeList productos = document.getElementsByTagName("empleado");
 
-            for (int i = 0; i < empleados.getLength(); i ++) {
+            for (int i = 0; i < productos.getLength(); i ++) {
 
-                Node emple = empleados.item(i);
+                Node emple = productos.item(i);
 
                 if (emple.getNodeType() == Node.ELEMENT_NODE) {
 
