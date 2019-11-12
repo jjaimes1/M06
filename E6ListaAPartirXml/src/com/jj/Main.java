@@ -31,14 +31,14 @@ public class Main {
 
             ArrayList<String> descripciones = new ArrayList<>();
 
-            for (int i = 0; i < productos.getLength(); i ++) {
+            for (int i = 1; i < productos.getLength(); i ++) {
 
                 Node nNode = productos.item(i);
 
                  if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
                      Element elemento = (Element) nNode;
-                     System.out.println( i+1 + ") " + elemento.getAttribute("header"));
+                     System.out.println( i + ") " + elemento.getAttribute("header"));
                      descripciones.add(elemento.getAttribute("text"));
                  }
             }
