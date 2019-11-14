@@ -1,0 +1,68 @@
+<recuerdo res="OK" error="">
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2000/01</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV00_01.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2001</ano>
+		<temporada>Primavera - Verano</temporada>
+		<thumb><![CDATA[contenido/recuerdo/V01.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2001/02</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV01_02.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2002/03</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV02_03.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2003</ano>
+		<temporada>Primavera - Verano</temporada>
+		<thumb><![CDATA[contenido/recuerdo/V03.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2003/04</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV03_04.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2004/05</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV04_05.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2005</ano>
+		<temporada>Primavera - Verano</temporada>
+		<thumb><![CDATA[contenido/recuerdo/V05.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2005/06</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV05_06.jpg]]></thumb>
+	</fila>
+	<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2006</ano>
+		<temporada>Primavera - Verano</temporada>
+		<thumb><![CDATA[contenido/recuerdo/V06.jpg]]></thumb>
+	</fila>
+		<fila>
+		<id><![CDATA[14]]></id>
+		<ano>2006/07</ano>
+		<temporada>Otoño - Invierno</temporada>
+		<thumb><![CDATA[contenido/recuerdo/INV06_07.jpg]]></thumb>
+	</fila>
+</recuerdo>
