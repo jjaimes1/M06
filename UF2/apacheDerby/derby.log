@@ -1,0 +1,73 @@
+----------------------------------------------------------------
+Thu Nov 28 20:28:26 CET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (???): instance a816c00e-016e-b37c-6bff-00000e30d938 
+on database directory /home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby/ejemplo with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/usr/share/java/derby/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=/home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby
+os.name=Linux
+os.arch=amd64
+os.version=4.18.19-100.fc27.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Thu Nov 28 20:30:01 CET 2019 Thread[main,5,main] (XID = 167), (SESSIONID = 1), (DATABASE = /home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby/ejemplo), (DRDAID = null), Cleanup action starting
+Thu Nov 28 20:30:01 CET 2019 Thread[main,5,main] (XID = 167), (SESSIONID = 1), (DATABASE = /home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby/ejemplo), (DRDAID = null), Failed Statement is: CREATE TABLE departamentos (
+ dept_no  INT NOT NULL PRIMARY KEY,
+ dnombre  VARCHAR(15), 
+ loc      VARCHAR(15)
+
+>
+>>
+
+ERROR 42X01: Syntax error: Encountered ">" at line 6, column 1.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:285)
+	at org.apache.derby.impl.sql.compile.ParserImpl.parseStatementOrSearchCondition(ParserImpl.java:175)
+	at org.apache.derby.impl.sql.compile.ParserImpl.parseStatement(ParserImpl.java:130)
+	at org.apache.derby.impl.sql.GenericStatement.prepMinion(GenericStatement.java:359)
+	at org.apache.derby.impl.sql.GenericStatement.prepare(GenericStatement.java:99)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.prepareInternalStatement(GenericLanguageConnectionContext.java:1114)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(EmbedStatement.java:684)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(EmbedStatement.java:632)
+	at org.apache.derby.impl.tools.ij.ij.executeImmediate(ij.java:373)
+	at org.apache.derby.impl.tools.ij.utilMain.doCatch(utilMain.java:533)
+	at org.apache.derby.impl.tools.ij.utilMain.runScriptGuts(utilMain.java:375)
+	at org.apache.derby.impl.tools.ij.utilMain.go(utilMain.java:251)
+	at org.apache.derby.impl.tools.ij.Main.go(Main.java:229)
+	at org.apache.derby.impl.tools.ij.Main.mainCore(Main.java:184)
+	at org.apache.derby.impl.tools.ij.Main.main(Main.java:75)
+	at org.apache.derby.tools.ij.main(ij.java:59)
+Cleanup action completed
+Thu Nov 28 20:33:23 CET 2019 Thread[main,5,main] (XID = 241), (SESSIONID = 1), (DATABASE = /home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby/ejemplo), (DRDAID = null), Cleanup action starting
+Thu Nov 28 20:33:23 CET 2019 Thread[main,5,main] (XID = 241), (SESSIONID = 1), (DATABASE = /home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby/ejemplo), (DRDAID = null), Failed Statement is: select * from emepleados
+ERROR 42X05: Table/View 'EMEPLEADOS' does not exist.
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:290)
+	at org.apache.derby.iapi.error.StandardException.newException(StandardException.java:285)
+	at org.apache.derby.impl.sql.compile.FromBaseTable.bindTableDescriptor(FromBaseTable.java:2718)
+	at org.apache.derby.impl.sql.compile.FromBaseTable.bindNonVTITables(FromBaseTable.java:2340)
+	at org.apache.derby.impl.sql.compile.FromList.bindTables(FromList.java:348)
+	at org.apache.derby.impl.sql.compile.SelectNode.bindNonVTITables(SelectNode.java:490)
+	at org.apache.derby.impl.sql.compile.DMLStatementNode.bindTables(DMLStatementNode.java:190)
+	at org.apache.derby.impl.sql.compile.DMLStatementNode.bind(DMLStatementNode.java:127)
+	at org.apache.derby.impl.sql.compile.CursorNode.bindStatement(CursorNode.java:283)
+	at org.apache.derby.impl.sql.GenericStatement.prepMinion(GenericStatement.java:401)
+	at org.apache.derby.impl.sql.GenericStatement.prepare(GenericStatement.java:99)
+	at org.apache.derby.impl.sql.conn.GenericLanguageConnectionContext.prepareInternalStatement(GenericLanguageConnectionContext.java:1114)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(EmbedStatement.java:684)
+	at org.apache.derby.impl.jdbc.EmbedStatement.execute(EmbedStatement.java:632)
+	at org.apache.derby.impl.tools.ij.ij.executeImmediate(ij.java:373)
+	at org.apache.derby.impl.tools.ij.utilMain.doCatch(utilMain.java:533)
+	at org.apache.derby.impl.tools.ij.utilMain.runScriptGuts(utilMain.java:378)
+	at org.apache.derby.impl.tools.ij.utilMain.go(utilMain.java:251)
+	at org.apache.derby.impl.tools.ij.Main.go(Main.java:229)
+	at org.apache.derby.impl.tools.ij.Main.mainCore(Main.java:184)
+	at org.apache.derby.impl.tools.ij.Main.main(Main.java:75)
+	at org.apache.derby.tools.ij.main(ij.java:59)
+Cleanup action completed
+----------------------------------------------------------------
+Thu Nov 28 21:00:14 CET 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Nov 28 21:00:15 CET 2019:
+Shutting down instance a816c00e-016e-b37c-6bff-00000e30d938 on database directory /home/users/inf/wiam2/iam26541596/Documents/jhonny/M06/UF2/apacheDerby/ejemplo with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------

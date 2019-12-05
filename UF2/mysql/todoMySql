@@ -1,0 +1,10 @@
+instalador mysql
+contraseña: Jupiter1+
+
+https://tecadmin.net/install-mysql-8-on-fedora/
+
+acceso:  mysql -u root -p
+
+comandos:
+
+https://blog.baehost.com/comandos-basicos-para-mysql/
