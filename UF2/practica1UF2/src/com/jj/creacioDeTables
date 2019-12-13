@@ -1,0 +1,18 @@
+CREATE TABLE amics (
+ idamic  TINYINT(2) NOT NULL PRIMARY KEY,
+ nom  VARCHAR(15),
+ cognom1      VARCHAR(15),
+ cognom2      VARCHAR(15),
+ telefon      INT(9)
+);
+CREATE TABLE adreces (
+ idadreces  TINYINT(5) NOT NULL PRIMARY KEY,
+ idamic  TINYINT(2),
+ nomvia      VARCHAR(15),
+ cp      INT(5),
+ poblacio      VARCHAR(15),
+ FOREIGN KEY  (idamic) REFERENCES amics(idamic)
+);
+
+INSERT  INTO amics VALUES(  11 ,'PEPITO' ,'DE LA PATATA' ,'VOLADORA' ,  666333666 );
+INSERT  INTO adreces VALUES ( 11 ,  11 ,'FALSA123' , 06660 ,'HELL' );

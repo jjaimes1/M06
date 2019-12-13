@@ -1,0 +1,15 @@
+CREATE TABLE amics (
+ idamic  TINYINT(2) NOT NULL PRIMARY KEY,
+ nom  VARCHAR(15),
+ cognom1      VARCHAR(15),
+ cognom2      VARCHAR(15),
+ telefon      TINYINT(9)
+);
+CREATE TABLE adreces (
+ idadreces  TINYINT(5) NOT NULL PRIMARY KEY,
+ idamic  TINYINT(2),
+ nomvia      VARCHAR(15),
+ cp      TINYINT(5),
+ poblacio      TINYINT(9),
+ FOREIGN KEY  (idamic) REFERENCES amics(idamic)
+);
