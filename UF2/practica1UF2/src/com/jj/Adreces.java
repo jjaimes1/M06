@@ -32,7 +32,7 @@ public class Adreces
 
     @Override
     public String toString() {
-        return "INSERT INTO adreces VALUES(" +
+        return "(" +
                 "" + idAdreces +
                 "," + idAmic +
                 ",'" + nomVia + '\'' +

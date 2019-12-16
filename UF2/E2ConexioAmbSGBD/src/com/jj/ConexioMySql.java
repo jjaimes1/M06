@@ -15,8 +15,7 @@ public class ConexioMySql {
 
             // Preparamos la consulta
             Statement sentencia = conexion.createStatement();
-            ResultSet resul = sentencia.executeQuery("SELECT * FROM departamentos")
-                    ;
+            ResultSet resul = sentencia.executeQuery("SELECT * FROM departamentos");
 
             System.out.println("=============================");
             System.out.println("Coneccio BD MYSQL");
