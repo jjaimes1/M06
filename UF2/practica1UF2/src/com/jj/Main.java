@@ -56,12 +56,9 @@ public class Main
                     break;
                 case "2":
                     donarBaixa(conexion);
-
                     bloquejarPantalla();
                     break;
                 case "3":
-                    System.out.println("hola que ace 3");
-
                     modificacioDades(conexion);
                     bloquejarPantalla();
                     break;
@@ -71,7 +68,6 @@ public class Main
                     break;
                 case "5":
                     busquedaPerNomOCogn(conexion);
-
                     bloquejarPantalla();
                     break;
                 case "q":
@@ -173,8 +169,18 @@ public class Main
         int opcio = Integer.parseInt(sc.nextLine());
         switch (opcio)
         {
-            case '1':
+            case 1:
                 modTaulaAmics(con, idCambiant);
+                break;
+            case 2:
+                modTaulaAdreces(con,idCambiant);
+                break;
+            case 3:
+                modTaulaAmics(con, idCambiant);
+                modTaulaAdreces(con,idCambiant);
+                break;
+            default:
+                System.out.println("opcion incorrecta");
 
         }
 
@@ -182,13 +188,11 @@ public class Main
 
     public static void modTaulaAmics(Connection con, int idEscollit) throws SQLException {
         //update adreces set nomvia='verdadera' where idamic=21;
-        boolean autocomit = true;
+
         boolean rpta1 = false;
-        Statement stm = null;
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("introdueix el ID de l'amic que vols d'onar de baixa");
-        String idABorrar;
+        System.out.println("introdueix les dades de la taula AMICS que es modificaran");
         try {
 
             String modAmics = " update amics set nom=?, cognom1=?, cognom2=?, telefon=? where idamic=" + idEscollit;
@@ -205,8 +209,8 @@ public class Main
             telefon = Integer.parseInt(sc.nextLine());
 
             prepAmics.setString(1,nom);
-            prepAmics.setString(2,nom);
-            prepAmics.setString(3,nom);
+            prepAmics.setString(2,cognom1);
+            prepAmics.setString(3,cognom2);
             prepAmics.setInt(4,telefon);
 
             rpta1 = prepAmics.executeUpdate()==1;
@@ -214,7 +218,7 @@ public class Main
         } catch (SQLException e)
         {
             System.out.println("===================================================================");
-            System.out.println("NO S'HA POGUT DONAR DE BAIXA UN NOU AMIC PER ALGUNA DADA ERRONEA");
+            System.out.println("NO S'HA POGUT MODIFICAR LA TAULA AMIC PER ALGUNA DADA ERRONEA");
             System.out.println("===================================================================\n");
             System.out.println("==================");
             System.out.println("PROVA UN ALTRE COP");
@@ -222,12 +226,41 @@ public class Main
             con.rollback();
             throw e;
         }
-
-
-
     }
-    public static void modTaulaAdreces()
-    {
+    public static void modTaulaAdreces(Connection con, int idEscollit) throws SQLException {
+        boolean rpta1 = false;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("introdueix les dades de la taula ADRECES que es modificaran");
+        try
+        {
+            String modAmics = " update adreces set nomvia=?, cp=?, poblacio=? where idamic=" + idEscollit;
+            PreparedStatement prepAmics= con.prepareStatement(modAmics);
+
+            System.out.println("introdueix la nova direccio");
+            nomVia= sc.nextLine();
+            System.out.println("introdueix el nou CP");
+            cp = Integer.parseInt(sc.nextLine());
+            System.out.println("introdueix la nova POBLACIO");
+            poblacio = sc.nextLine();
+
+            prepAmics.setString(1,nomVia);
+            prepAmics.setInt(2,cp);
+            prepAmics.setString(3,poblacio);
+
+            rpta1 = prepAmics.executeUpdate()==1;
+
+        } catch (SQLException e)
+        {
+            System.out.println("===================================================================");
+            System.out.println("NO S'HA POGUT MODIFICAR LA TAULA ADRECES PER ALGUNA DADA ERRONEA");
+            System.out.println("===================================================================\n");
+            System.out.println("==================");
+            System.out.println("PROVA UN ALTRE COP");
+            System.out.println("==================");
+            con.rollback();
+            throw e;
+        }
 
     }
 
